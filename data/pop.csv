@@ -1,64 +1,4 @@
 region,n,date_label
-Total Pop,"63,839",1
-Total Pop,"63,615",2
-Total Pop,"63,029",3
-Total Pop,"61,782",4
-Total Pop,"61,129",5
-Total Pop,"60,849",6
-Total Pop,"61,054",7
-Total Pop,"61,674",8
-Total Pop,"62,391",9
-Total Pop,"62,808",10
-Total Pop,"63,092",11
-Total Pop,"62,590",12
-Total Pop,"62,679",13
-Total Pop,"61,798",14
-Total Pop,"60,923",15
-Total Pop,"60,422",16
-Total Pop,"59,308",17
-Total Pop,"58,736",18
-Total Pop,"58,089",19
-Total Pop,"57,660",20
-Total Families,"15,492",1
-Total Families,"15,344",2
-Total Families,"15,193",3
-Total Families,"14,826",4
-Total Families,"14,674",5
-Total Families,"14,589",6
-Total Families,"14,621",7
-Total Families,"14,806",8
-Total Families,"14,962",9
-Total Families,"14,997",10
-Total Families,"14,973",11
-Total Families,"14,792",12
-Total Families,"14,682",13
-Total Families,"14,344",14
-Total Families,"14,097",15
-Total Families,"13,861",16
-Total Families,"13,523",17
-Total Families,"13,275",18
-Total Families,"13,046",19
-Total Families,"12,866",20
-Total Persons in Families,"45,819",1
-Total Persons in Families,"45,403",2
-Total Persons in Families,"44,864",3
-Total Persons in Families,"43,630",4
-Total Persons in Families,"43,100",5
-Total Persons in Families,"42,962",6
-Total Persons in Families,"43,113",7
-Total Persons in Families,"43,736",8
-Total Persons in Families,"44,230",9
-Total Persons in Families,"44,458",10
-Total Persons in Families,"44,411",11
-Total Persons in Families,"43,896",12
-Total Persons in Families,"43,669",13
-Total Persons in Families,"42,704",14
-Total Persons in Families,"41,892",15
-Total Persons in Families,"41,091",16
-Total Persons in Families,"40,131",17
-Total Persons in Families,"39,324",18
-Total Persons in Families,"38,585",19
-Total Persons in Families,"37,977",20
 Children,"22,938",1
 Children,"22,717",2
 Children,"22,412",3
@@ -99,46 +39,46 @@ Adults in Families,"20,087",17
 Adults in Families,"19,698",18
 Adults in Families,"19,307",19
 Adults in Families,"18,971",20
-Single Adults,"18,020",1
-Single Adults,"18,212",2
-Single Adults,"18,165",3
-Single Adults,"18,152",4
-Single Adults,"18,029",5
-Single Adults,"17,887",6
-Single Adults,"17,941",7
-Single Adults,"17,938",8
-Single Adults,"18,161",9
-Single Adults,"18,350",10
-Single Adults,"18,681",11
-Single Adults,"18,694",12
-Single Adults,"19,010",13
-Single Adults,"19,094",14
-Single Adults,"19,031",15
-Single Adults,"19,331",16
-Single Adults,"19,177",17
-Single Adults,"19,412",18
-Single Adults,"19,504",19
-Single Adults,"19,683",20
-Single Men,"13,368",1
-Single Men,"13,548",2
-Single Men,"13,543",3
-Single Men,"13,544",4
-Single Men,"13,489",5
-Single Men,"13,339",6
-Single Men,"13,390",7
-Single Men,"13,343",8
-Single Men,"13,439",9
-Single Men,"13,585",10
-Single Men,"13,871",11
-Single Men,"13,861",12
-Single Men,"14,082",13
-Single Men,"14,188",14
-Single Men,"14,185",15
-Single Men,"14,475",16
-Single Men,"14,451",17
-Single Men,"14,712",18
-Single Men,"14,801",19
-Single Men,"14,905",20
+Total Persons in Families,"45,819",1
+Total Persons in Families,"45,403",2
+Total Persons in Families,"44,864",3
+Total Persons in Families,"43,630",4
+Total Persons in Families,"43,100",5
+Total Persons in Families,"42,962",6
+Total Persons in Families,"43,113",7
+Total Persons in Families,"43,736",8
+Total Persons in Families,"44,230",9
+Total Persons in Families,"44,458",10
+Total Persons in Families,"44,411",11
+Total Persons in Families,"43,896",12
+Total Persons in Families,"43,669",13
+Total Persons in Families,"42,704",14
+Total Persons in Families,"41,892",15
+Total Persons in Families,"41,091",16
+Total Persons in Families,"40,131",17
+Total Persons in Families,"39,324",18
+Total Persons in Families,"38,585",19
+Total Persons in Families,"37,977",20
+Total Families,"15,492",1
+Total Families,"15,344",2
+Total Families,"15,193",3
+Total Families,"14,826",4
+Total Families,"14,674",5
+Total Families,"14,589",6
+Total Families,"14,621",7
+Total Families,"14,806",8
+Total Families,"14,962",9
+Total Families,"14,997",10
+Total Families,"14,973",11
+Total Families,"14,792",12
+Total Families,"14,682",13
+Total Families,"14,344",14
+Total Families,"14,097",15
+Total Families,"13,861",16
+Total Families,"13,523",17
+Total Families,"13,275",18
+Total Families,"13,046",19
+Total Families,"12,866",20
 Single Women,"4,652",1
 Single Women,"4,664",2
 Single Women,"4,622",3
@@ -159,23 +99,63 @@ Single Women,"4,726",17
 Single Women,"4,700",18
 Single Women,"4,703",19
 Single Women,"4,778",20
-Average Length of Shelter Stays for Families (in Days),446,1
-Average Length of Shelter Stays for Families (in Days),448,2
-Average Length of Shelter Stays for Families (in Days),448,3
-Average Length of Shelter Stays for Families (in Days),449,4
-Average Length of Shelter Stays for Families (in Days),447,5
-Average Length of Shelter Stays for Families (in Days),447,6
-Average Length of Shelter Stays for Families (in Days),445,7
-Average Length of Shelter Stays for Families (in Days),436,8
-Average Length of Shelter Stays for Families (in Days),428,9
-Average Length of Shelter Stays for Families (in Days),426,10
-Average Length of Shelter Stays for Families (in Days),429,11
-Average Length of Shelter Stays for Families (in Days),431,12
-Average Length of Shelter Stays for Families (in Days),428,13
-Average Length of Shelter Stays for Families (in Days),428,14
-Average Length of Shelter Stays for Families (in Days),440,15
-Average Length of Shelter Stays for Families (in Days),452,16
-Average Length of Shelter Stays for Families (in Days),464,17
-Average Length of Shelter Stays for Families (in Days),474,18
-Average Length of Shelter Stays for Families (in Days),485,19
-Average Length of Shelter Stays for Families (in Days),494,20
+Single Men,"13,368",1
+Single Men,"13,548",2
+Single Men,"13,543",3
+Single Men,"13,544",4
+Single Men,"13,489",5
+Single Men,"13,339",6
+Single Men,"13,390",7
+Single Men,"13,343",8
+Single Men,"13,439",9
+Single Men,"13,585",10
+Single Men,"13,871",11
+Single Men,"13,861",12
+Single Men,"14,082",13
+Single Men,"14,188",14
+Single Men,"14,185",15
+Single Men,"14,475",16
+Single Men,"14,451",17
+Single Men,"14,712",18
+Single Men,"14,801",19
+Single Men,"14,905",20
+Single Adults,"18,020",1
+Single Adults,"18,212",2
+Single Adults,"18,165",3
+Single Adults,"18,152",4
+Single Adults,"18,029",5
+Single Adults,"17,887",6
+Single Adults,"17,941",7
+Single Adults,"17,938",8
+Single Adults,"18,161",9
+Single Adults,"18,350",10
+Single Adults,"18,681",11
+Single Adults,"18,694",12
+Single Adults,"19,010",13
+Single Adults,"19,094",14
+Single Adults,"19,031",15
+Single Adults,"19,331",16
+Single Adults,"19,177",17
+Single Adults,"19,412",18
+Single Adults,"19,504",19
+Single Adults,"19,683",20
+Total Pop,"63,839",1
+Total Pop,"63,615",2
+Total Pop,"63,029",3
+Total Pop,"61,782",4
+Total Pop,"61,129",5
+Total Pop,"60,849",6
+Total Pop,"61,054",7
+Total Pop,"61,674",8
+Total Pop,"62,391",9
+Total Pop,"62,808",10
+Total Pop,"63,092",11
+Total Pop,"62,590",12
+Total Pop,"62,679",13
+Total Pop,"61,798",14
+Total Pop,"60,923",15
+Total Pop,"60,422",16
+Total Pop,"59,308",17
+Total Pop,"58,736",18
+Total Pop,"58,089",19
+Total Pop,"57,660",20
