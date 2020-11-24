@@ -21,7 +21,6 @@ tfff_pink <- "#ED50D5"
 tfff_lime <- "#87ED50"
 tfff_light_blue <- "#50EDEA"
 tfff_red <- "#F53227"
-tfff_rose <- "#ED5087"
 
 #themes
 tfff_theme <- theme_ipsum(base_family = "serif",
@@ -31,20 +30,22 @@ tfff_theme <- theme_ipsum(base_family = "serif",
         panel.grid.minor.x = element_blank(),
         panel.grid.minor.y = element_blank())
 
-tfff_fill_colors <- scale_fill_manual(values = rev(c(tfff_blue,
+tfff_fill_colors <- scale_fill_manual(values = rev(c(tfff_light_blue,
+                                                     tfff_red,
                                                      tfff_purple,
                                                      tfff_orange,
                                                      tfff_yellow,
                                                      tfff_pink,
                                                      tfff_lime,
-                                                     tfff_light_blue,
-                                                     tfff_red,
-                                                     tfff_rose))) 
+                                                     tfff_blue))) 
+
 #plot
 regions_plot <- ggplot(data = regions, 
                        aes(x = date_label, 
                            y = n, 
                            fill = region)) +
+  scale_x_continuous(breaks=pretty_breaks(n=20)) +   
+  scale_y_continuous(breaks=pretty_breaks(n=10)) +
   geom_area() +
   tfff_theme +
   tfff_fill_colors +
